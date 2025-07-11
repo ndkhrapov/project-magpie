@@ -1,0 +1,2023 @@
+name_list_celtic = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_ynysig = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Celt      
+		Cerbynyseg
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Celta
+		Cerbynysega
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_briton = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_ogledd = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_kernow = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_cymru = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_fortriu = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_eire = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_gael = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_ioslainn = {
+    dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+
+    cadet_dynasty_names = {
+		{ dynnp_a dynn_Briton }
+		{ dynn_Trinovanti }
+		{ dynn_Cantiaci }
+		{ dynn_Iceni }
+		{ dynn_Durotrigi }
+		{ dynn_Dobunni }
+		{ dynn_Coritani }
+
+		{ dynnp_a dynn_Ogledd }
+		{ dynn_Parisi }
+		{ dynn_Cornovi }
+		{ dynn_Briganti }
+
+		{ dynnp_a dynn_Kernow }
+		{ dynn_Dumnoni }
+
+		{ dynnp_a dynn_Cymru }
+		{ dynn_Ordovici }
+		{ dynn_Demeti }
+		{ dynn_Siluri }
+
+		{ dynnp_a dynn_Fortriu }
+		{ dynn_Taexali }
+		{ dynn_Votadini }
+		{ dynn_Damnoni }
+		{ dynn_Caledoni }
+
+		{ dynnp_a dynn_Eire }
+		{ dynn_Eblani }
+		{ dynn_Volunti }
+		{ dynn_Coriondi }
+		{ dynn_Iverni }
+		{ dynn_Auteini }
+
+		{ dynnp_a dynn_Gael }
+		{ dynn_Monapi }
+		{ dynn_Carnonaci }
+		{ dynn_Cornavi }
+
+		{ dynnp_a dynn_Ioslainn }
+		{ dynn_Carveti }
+	}
+	
+	male_names = {
+		Briton
+		Trinovant
+		Cantiac
+		Icen
+		Durotrig
+		Dobunn
+		Coritan
+
+		Ogledd
+		Paris
+		Cornov
+		Brigant
+
+		Kernow
+		Dumnon
+
+		Cymru
+		Ordovic
+		Demet
+		Silur
+
+		Fortriu
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+
+		Eire
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+
+		Gael
+		Monap
+		Carnonac
+		Cornav
+
+		Gwladyria
+		Carvet
+	}
+
+	female_names = {
+		Britona
+		Trinova
+		Cantia
+		Icena
+		Durotra
+		Dobunna
+		Corita
+		
+		Ogledda
+		Parissa
+		Cornova
+		Briganta
+
+		Kerna
+		Dumna
+
+		Cymra
+		Ordovessa
+		Demetha
+		Silura
+
+		Fortra
+		Taexala
+		Votadina
+		Damnona
+		Caleda
+
+		Eira
+		Eblana
+		Volunta
+		Coriona
+		Iverna
+		Auteina
+
+		Gaela
+		Monapa
+		Carnona
+		Cornava
+
+		Ioslainne
+		Carveta
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}

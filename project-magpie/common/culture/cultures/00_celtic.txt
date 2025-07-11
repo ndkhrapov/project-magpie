@@ -1,0 +1,317 @@
+celtic = {
+	color = celtic
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_celtic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+ynysig = {
+	color = ynysig
+	created = 0.1.1
+	parents = { celtic }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_ynysig
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+briton = {
+	color = briton
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_briton
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+ogledd = {
+	color = ogledd
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_hill_dwellers
+		tradition_ancient_miners
+		tradition_highland_warriors
+	}
+	
+	name_list = name_list_ogledd
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+kernow = {
+	color = kernow
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_hill_dwellers
+		tradition_fishermen
+		tradition_ancient_miners
+	}
+	
+	name_list = name_list_kernow
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+cymru = {
+	color = cymru
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_longbow_competitions
+	}
+	
+	name_list = name_list_cymru
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+fortriu = {
+	color = fortriu
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_hill_dwellers
+		tradition_highland_warriors
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_fortriu
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+eire = {
+	color = eire
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_strong_kinship
+		tradition_pastoralists
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_eire
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+gael = {
+	color = gael
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_fishermen
+		tradition_seafaring
+		tradition_maritime_mercantilism
+	}
+
+	name_list = name_list_gael
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+ioslainn = {
+	color = ioslainn
+	created = 0.1.1
+	parents = { ynysig }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_strong_kinship
+		tradition_hill_dwellers
+		tradition_highland_warriors
+	}
+
+	name_list = name_list_ioslainn
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
