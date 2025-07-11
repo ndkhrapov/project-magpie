@@ -1,0 +1,145 @@
+﻿# Celts
+
+ynysig = {
+	name = dynn_Ynysig
+	dynasty = celt
+}
+trinovanti = {
+	name = dynn_Trinovanti
+	dynasty = celt
+}
+cantiaci = {
+	name = dynn_Cantiaci
+	dynasty = celt
+}
+iceni = {
+	name = dynn_Iceni
+	dynasty = celt
+}
+durotrigi = {
+	name = dynn_Durotrigi
+	dynasty = celt
+}
+dobunni = {
+	name = dynn_Dobunni
+	dynasty = celt
+}
+coritani = {
+	name = dynn_Coritani
+	dynasty = celt
+}
+
+ogledd = {
+	name = dynn_Ogledd
+	dynasty = celt
+}
+parisi = {
+	name = dynn_Parisi
+	dynasty = celt
+}
+cornovi = {
+	name = dynn_Cornovi
+	dynasty = celt
+}
+briganti = {
+	name = dynn_Briganti
+	dynasty = celt
+}
+
+kernow = {
+	name = dynn_Kernow
+	dynasty = celt
+}
+dumnoni = {
+	name = dynn_Dumnoni
+	dynasty = celt
+}
+
+cymru = {
+	name = dynn_Cymru
+	dynasty = celt
+}
+ordovici = {
+	name = dynn_Ordovici
+	dynasty = celt
+}
+demeti = {
+	name = dynn_Demeti
+	dynasty = celt
+}
+siluri = {
+	name = dynn_Siluri
+	dynasty = celt
+}
+
+fortriu = {
+	name = dynn_Fortriu
+	dynasty = celt
+}
+taexali = {
+	name = dynn_Taexali
+	dynasty = celt
+}
+votadini = {
+	name = dynn_Votadini
+	dynasty = celt
+}
+damnoni = {
+	name = dynn_Damnoni
+	dynasty = celt
+}
+caledoni = {
+	name = dynn_Caledoni
+	dynasty = celt
+}
+
+eire = {
+	name = dynn_Eire
+	dynasty = celt
+}
+eblani = {
+	name = dynn_Eblani
+	dynasty = celt
+}
+volunti = {
+	name = dynn_Volunti
+	dynasty = celt
+}
+coriondi = {
+	name = dynn_Coriondi
+	dynasty = celt
+}
+iverni = {
+	name = dynn_Iverni
+	dynasty = celt
+}
+auteini = {
+	name = dynn_Auteini
+	dynasty = celt
+}
+
+gael = {
+	name = dynn_Gael
+	dynasty = celt
+}
+monapi = {
+	name = dynn_Monapi
+	dynasty = celt
+}
+carnonaci = {
+	name = dynn_Carnonaci
+	dynasty = celt
+}
+cornavi = {
+	name = dynn_Cornavi
+	dynasty = celt
+}
+
+ioslainn = {
+	name = dynn_Ioslainn
+	dynasty = celt
+}
+carveti = {
+	name = dynn_Carveti
+	dynasty = celt
+}

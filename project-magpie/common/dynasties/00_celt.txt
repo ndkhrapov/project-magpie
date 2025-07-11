@@ -1,0 +1,4 @@
+﻿celt = {
+	name = dynn_Celt
+	culture = celtic
+}
