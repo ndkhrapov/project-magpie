@@ -1,9 +1,9 @@
 # project-magpie
 project-magpie
 
-steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3509181284
+paradox: https://mods.paradoxplaza.com/mods/115057/Any
 
-paradox: https://mods.paradoxplaza.com/mods/114087/Any
+steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3522646519
 
 youtube: https://www.youtube.com/@project-magpie-ck3
 
