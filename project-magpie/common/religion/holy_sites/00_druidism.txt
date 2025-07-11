@@ -1,0 +1,69 @@
+﻿############
+# Druidism #
+############
+
+# Insular #
+
+stonehenge = {
+	county = c_wiltshire
+	barony = b_salisbury
+	
+	character_modifier = {
+	}
+}
+
+stanwick_forts = {
+	county = c_durham
+	barony = b_hartlepool
+
+	character_modifier = {
+	}
+}
+
+tintagel = {
+	county = c_cornwall
+	barony = b_tintagel
+
+	character_modifier = {
+	}
+}
+
+cadair_idris = {
+	county = c_maldwyn
+	barony = b_newtown
+	
+	character_modifier = {
+	}
+}
+
+clava_cairns = {
+	county = c_moray
+	barony = b_elgin
+	
+	character_modifier = {
+	}
+}
+
+newgrange = {
+	county = c_dublin
+	barony = b_drogheda
+	
+	character_modifier = {
+	}
+}
+
+callanish_stones = {
+	county = c_outer_hebrides
+	barony = b_lewis
+
+	character_modifier = {
+	}
+}
+
+godafoss = {
+	county = c_nordrland
+	barony = b_husavic
+
+	character_modifier = {
+	}
+}
